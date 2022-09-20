@@ -1,1 +1,8 @@
-/* styles go here */
+.input {
+  margin: 10px 0;
+  display: block;
+}
+
+.group {
+  margin: 20px 0;
+}
