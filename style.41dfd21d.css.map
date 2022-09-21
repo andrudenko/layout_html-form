@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,OACE,aACF,CAEA,wBACE,kBACF,CAEA,OACE,kBACF","file":"style.41dfd21d.css","sourceRoot":"..\\src","sourcesContent":[".input {\r\n  display: block;\r\n}\r\n\r\n.input:not(:last-child) {\r\n  margin-bottom: 10px;\r\n}\r\n\r\n.group {\r\n  margin-bottom: 20px;\r\n}\r\n"]}
